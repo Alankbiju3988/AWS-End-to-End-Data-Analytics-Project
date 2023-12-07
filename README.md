@@ -10,10 +10,10 @@ This comprehensive End-to-End Data Analytics project on AWS focuses on utilizing
 
 #### Storing Raw Data in S3 Buckets:
 
--Utilized AWS CLI to configure and set up AWS credentials.
--Created an S3 bucket for storing raw data (JSON and CSV files) from the Kaggle YouTube dataset.
--Uploaded the files to S3 using AWS CLI commands.
--Building Catalog for Raw Data with AWS Glue Crawlers:
+- Utilized AWS CLI to configure and set up AWS credentials.
+- Created an S3 bucket for storing raw data (JSON and CSV files) from the Kaggle YouTube dataset.
+- Uploaded the files to S3 using AWS CLI commands.
+- Building Catalog for Raw Data with AWS Glue Crawlers:
 
 ![image](https://github.com/Alankbiju3988/AWS-End-to-End-Data-Analytics-Project/assets/97218077/e3af3743-b10e-4d09-be4d-f8bf2125f602)
 
