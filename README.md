@@ -23,32 +23,32 @@ This comprehensive End-to-End Data Analytics project on AWS focuses on utilizing
 
 #### Transforming Raw Data into Cleaned Data:
 
--Created a Lambda function to transform JSON files into a readable format supported by AWS.
--Established a trigger in AWS Lambda to automatically transform and store raw data in S3 when new data is added.
--Used AWS Glue ETL jobs to transform and normalize CSV files, creating a catalog for the cleaned data.
+- Created a Lambda function to transform JSON files into a readable format supported by AWS.
+- Established a trigger in AWS Lambda to automatically transform and store raw data in S3 when new data is added.
+- Used AWS Glue ETL jobs to transform and normalize CSV files, creating a catalog for the cleaned data.
 
 ![image](https://github.com/Alankbiju3988/AWS-End-to-End-Data-Analytics-Project/assets/97218077/3de31498-6c3e-4c4c-bf6f-72b1cf3af970)
 
 #### Transforming Cleaned Data to Analytics Data:
 
--Leveraged AWS Glue ETL jobs to perform necessary transformations, including joining data from CSV and JSON files.
--Stored the transformed data in an analytics S3 bucket for streamlined access.
+- Leveraged AWS Glue ETL jobs to perform necessary transformations, including joining data from CSV and JSON files.
+- Stored the transformed data in an analytics S3 bucket for streamlined access.
 
 ![image](https://github.com/Alankbiju3988/AWS-End-to-End-Data-Analytics-Project/assets/97218077/406f108d-803c-4c3d-8520-f69949afce3a)
 
 
 #### Data Visualization with QuickSight:
 
--Imported the analytics dataset from the S3 bucket into AWS QuickSight.
--Conducted thorough data analysis and visualization using QuickSight's features, including charts and graphs.
+- Imported the analytics dataset from the S3 bucket into AWS QuickSight.
+- Conducted thorough data analysis and visualization using QuickSight's features, including charts and graphs.
 
 ![image](https://github.com/Alankbiju3988/AWS-End-to-End-Data-Analytics-Project/assets/97218077/c9417882-2222-4374-8f7b-9320386b8046)
 
 
 #### Conclusion:
 
--The project demonstrates proficiency in AWS Cloud Services, showcasing expertise in managing raw data, transforming it into a cleaned format, and further processing it for analytics.
--The utilization of AWS services such as S3, Lambda, Glue, Athena, and QuickSight highlights the versatility of AWS for end-to-end data analytics projects.
--The approach enhances automation with triggers and ETL jobs, streamlining the data analytics process.
+- The project demonstrates proficiency in AWS Cloud Services, showcasing expertise in managing raw data, transforming it into a cleaned format, and further processing it for analytics.
+- The utilization of AWS services such as S3, Lambda, Glue, Athena, and QuickSight highlights the versatility of AWS for end-to-end data analytics projects.
+- The approach enhances automation with triggers and ETL jobs, streamlining the data analytics process.
 
 #### For more detailed report you can view the docx file
